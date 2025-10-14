@@ -1,0 +1,11 @@
+model_id,prompt,latency_s,tokens_per_s,vram_gb_peak,new_tokens
+mistralai/Mistral-7B-Instruct-v0.2,Explique em poucas linhas o que é aprendizado supervisionado e como ele difere do não supervisionado.,7.337497100000064,27.2572509773119,3.9775290489196777,200
+mistralai/Mistral-7B-Instruct-v0.2,"Resuma o seguinte texto em uma frase: 'Os modelos de linguagem de grande porte são treinados para prever a próxima palavra em uma sequência e, com isso, aprendem padrões complexos da linguagem.'",2.7719099999999344,27.417917609158234,3.982201099395752,76
+mistralai/Mistral-7B-Instruct-v0.2,Traduza para o português: 'The quick brown fox jumps over the lazy dog.',5.69284289999996,24.94360067445406,3.97564697265625,142
+mistralai/Mistral-7B-Instruct-v0.2,Dê três exemplos práticos de onde a inteligência artificial é usada no cotidiano.,21.889109400000052,9.13696379076983,3.976006507873535,200
+mistralai/Mistral-7B-Instruct-v0.2,Escreva um pequeno código Python que conte quantas vezes cada palavra aparece em uma frase.,20.614418900000146,9.701947019229273,3.9777817726135254,200
+mistralai/Mistral-7B-Instruct-v0.2,Explique o conceito de overfitting em modelos de machine learning.,11.156788099999858,17.92630622786522,3.9747705459594727,200
+mistralai/Mistral-7B-Instruct-v0.2,Qual é o impacto da quantização 4-bit no desempenho e na qualidade de um LLM?,7.237762700000076,27.632848476781078,3.9773998260498047,200
+mistralai/Mistral-7B-Instruct-v0.2,"Gere uma frase criativa usando as palavras 'futuro', 'dados' e 'consciência'.",2.9400000999999065,27.89115551390716,3.9776549339294434,82
+mistralai/Mistral-7B-Instruct-v0.2,"Resolva: se um modelo gera 200 tokens em 10 segundos, qual é a taxa média de tokens por segundo?",1.5050174000000425,27.906654102470053,3.9784131050109863,42
+mistralai/Mistral-7B-Instruct-v0.2,Dê uma breve opinião: você acredita que modelos pequenos podem substituir LLMs gigantes em certas aplicações? Justifique em até duas frases.,3.2434153000001515,27.131893963747377,3.9811043739318848,88

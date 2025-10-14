@@ -1,0 +1,45 @@
+idx,question,gold,prediction,correct,latency_s,tokens_per_s,vram_gb_peak
+1,Quanto é 8 + 15?,23,"[INST] <<SYS>>
+Responda somente com a resposta final.
+<</SYS>>
+Quanto é 8 + 15? [/INST] A resposta final é 23.",1,0.6094573999998829,18.04884147768509,3.972781181335449
+2,Calcule 12 vezes 13.,156,"[INST] <<SYS>>
+Responda somente com a resposta final.
+<</SYS>>
+Calcule 12 vezes 13. [/INST] A resposta final é 156.",1,0.45267420000027414,26.509131733137725,3.972933769226074
+3,Qual é a raiz quadrada de 81?,9,"[INST] <<SYS>>
+Responda somente com a resposta final.
+<</SYS>>
+Qual é a raiz quadrada de 81? [/INST] A raiz quadrada de 81 é 9.
+
+(9^2 = 81)",1,0.8930229000002328,27.99480282083862,3.9730873107910156
+4,"Se João tem 5 maçãs e come 2, quantas restam?",3,"[INST] <<SYS>>
+Responda somente com a resposta final.
+<</SYS>>
+Se João tem 5 maçãs e come 2, quantas restam? [/INST] Three maçãs remain.",0,0.30407900000000154,26.308952607710363,3.9743118286132812
+5,Um trem leva 2 horas para percorrer 120 km. Qual é sua velocidade média em km/h?,60,"[INST] <<SYS>>
+Responda somente com a resposta final.
+<</SYS>>
+Um trem leva 2 horas para percorrer 120 km. Qual é sua velocidade média em km/h? [/INST] A velocidade média do trem é 40 km/h (2 horas * 60 minutos/hora * 1000 metros/km / 120 km).",1,1.59403999999995,27.602820506387157,3.977147102355957
+6,"Se uma pizza é dividida em 8 fatias e Maria come 3, que fração da pizza ela comeu?",3/8,"[INST] <<SYS>>
+Responda somente com a resposta final.
+<</SYS>>
+Se uma pizza é dividida em 8 fatias e Maria come 3, que fração da pizza ela comeu? [/INST] A fração da pizza que Maria comeu é 3/8.",0,0.6347994999996445,25.204808762465884,3.975466728210449
+7,Resolva: (10 + 5) × 2,30,"[INST] <<SYS>>
+Responda somente com a resposta final.
+<</SYS>>
+Resolva: (10 + 5) × 2 [/INST] A resposta é 26.
+
+Explicação: Primeiro, executamos a soma (10 + 5), que resulta em 15. Em seguida, multiplicamos o resultado por 2: 15 × 2 = 30. Por",1,2.3094153000001825,27.71264224325306,3.973393440246582
+8,Um produto custa 80 reais e recebe 25% de desconto. Qual é o novo preço?,60,"[INST] <<SYS>>
+Responda somente com a resposta final.
+<</SYS>>
+Um produto custa 80 reais e recebe 25% de desconto. Qual é o novo preço? [/INST] O novo preço do produto é de 60 reais.",1,0.6398987000002307,26.566705011267988,3.977147102355957
+9,"Se um modelo gera 250 tokens em 5 segundos, qual é a taxa de tokens por segundo?",50,"[INST] <<SYS>>
+Responda somente com a resposta final.
+<</SYS>>
+Se um modelo gera 250 tokens em 5 segundos, qual é a taxa de tokens por segundo? [/INST] A taxa de tokens por segundo é de 50 tokens por segundo. (250 tokens / 5 segundos)",1,1.0731270999999651,27.023825975507414,3.97564697265625
+10,Qual é o valor de 2 elevado à potência 6?,64,"[INST] <<SYS>>
+Responda somente com a resposta final.
+<</SYS>>
+Qual é o valor de 2 elevado à potência 6? [/INST] O valor de 2 elevado à potência 6 é 64. (2 x 2 x 2 x 2 x 2 x 2 = 64)",1,1.4791669000001093,27.042249255305162,3.973546028137207

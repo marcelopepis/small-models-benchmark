@@ -1,0 +1,2 @@
+model_id,quality_math,quality_fact,quality_score
+microsoft/Phi-3-mini-4k-instruct,0.8,,0.8

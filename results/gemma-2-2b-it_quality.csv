@@ -1,0 +1,2 @@
+model_id,quality_math,quality_fact,quality_score
+google/gemma-2-2b-it,0.7,,0.7

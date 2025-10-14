@@ -1,0 +1,12 @@
+[
+    "Explique em poucas linhas o que é aprendizado supervisionado e como ele difere do não supervisionado.",
+    "Resuma o seguinte texto em uma frase: 'Os modelos de linguagem de grande porte são treinados para prever a próxima palavra em uma sequência e, com isso, aprendem padrões complexos da linguagem.'",
+    "Traduza para o português: 'The quick brown fox jumps over the lazy dog.'",
+    "Dê três exemplos práticos de onde a inteligência artificial é usada no cotidiano.",
+    "Escreva um pequeno código Python que conte quantas vezes cada palavra aparece em uma frase.",
+    "Explique o conceito de overfitting em modelos de machine learning.",
+    "Qual é o impacto da quantização 4-bit no desempenho e na qualidade de um LLM?",
+    "Gere uma frase criativa usando as palavras 'futuro', 'dados' e 'consciência'.",
+    "Resolva: se um modelo gera 200 tokens em 10 segundos, qual é a taxa média de tokens por segundo?",
+    "Dê uma breve opinião: você acredita que modelos pequenos podem substituir LLMs gigantes em certas aplicações? Justifique em até duas frases."
+]

@@ -1,0 +1,12 @@
+[
+    {"q": "Quanto é 8 + 15?", "a": "23"},
+    {"q": "Calcule 12 vezes 13.", "a": "156"},
+    {"q": "Qual é a raiz quadrada de 81?", "a": "9"},
+    {"q": "Se João tem 5 maçãs e come 2, quantas restam?", "a": "3"},
+    {"q": "Um trem leva 2 horas para percorrer 120 km. Qual é sua velocidade média em km/h?", "a": "60"},
+    {"q": "Se uma pizza é dividida em 8 fatias e Maria come 3, que fração da pizza ela comeu?", "a": "3/8"},
+    {"q": "Resolva: (10 + 5) × 2", "a": "30"},
+    {"q": "Um produto custa 80 reais e recebe 25% de desconto. Qual é o novo preço?", "a": "60"},
+    {"q": "Se um modelo gera 250 tokens em 5 segundos, qual é a taxa de tokens por segundo?", "a": "50"},
+    {"q": "Qual é o valor de 2 elevado à potência 6?", "a": "64"}
+]

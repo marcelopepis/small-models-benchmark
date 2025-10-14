@@ -1,0 +1,61 @@
+idx,question,gold,prediction,correct,latency_s,tokens_per_s,vram_gb_peak
+1,Quanto é 8 + 15?,23,"system
+Responda somente com a resposta final.
+user
+Quanto é 8 + 15?
+model
+23",1,0.3120905999999195,16.020988776981074,2.126774311065674
+2,Calcule 12 vezes 13.,156,"system
+Responda somente com a resposta final.
+user
+Calcule 12 vezes 13.
+model
+156",1,0.22515169999996942,26.648699521259733,2.126908779144287
+3,Qual é a raiz quadrada de 81?,9,"system
+Responda somente com a resposta final.
+user
+Qual é a raiz quadrada de 81?
+model
+9",1,0.16318479999972624,24.51208691009647,2.1270432472229004
+4,"Se João tem 5 maçãs e come 2, quantas restam?",3,"system
+Responda somente com a resposta final.
+user
+Se João tem 5 maçãs e come 2, quantas restam?
+model
+3",1,0.15981669999973747,25.02867347408982,2.12785005569458
+5,Um trem leva 2 horas para percorrer 120 km. Qual é sua velocidade média em km/h?,60,"system
+Responda somente com a resposta final.
+user
+Um trem leva 2 horas para percorrer 120 km. Qual é sua velocidade média em km/h?
+model
+60 km/h",1,0.3427497000002404,23.34064770879271,2.1289258003234863
+6,"Se uma pizza é dividida em 8 fatias e Maria come 3, que fração da pizza ela comeu?",3/8,"system
+Responda somente com a resposta final.
+user
+Se uma pizza é dividida em 8 fatias e Maria come 3, que fração da pizza ela comeu?
+model
+3/8",0,0.24022300000024188,24.976792397039244,2.1289258003234863
+7,Resolva: (10 + 5) × 2,30,"system
+Responda somente com a resposta final.
+user
+Resolva: (10 + 5) × 2
+model
+20",0,0.19927559999996447,25.09087916433769,2.127312183380127
+8,Um produto custa 80 reais e recebe 25% de desconto. Qual é o novo preço?,60,"system
+Responda somente com a resposta final.
+user
+Um produto custa 80 reais e recebe 25% de desconto. Qual é o novo preço?
+model
+56,00 reais.",0,0.38676669999995283,25.855380000401325,2.1285223960876465
+9,"Se um modelo gera 250 tokens em 5 segundos, qual é a taxa de tokens por segundo?",50,"system
+Responda somente com a resposta final.
+user
+Se um modelo gera 250 tokens em 5 segundos, qual é a taxa de tokens por segundo?
+model
+50 tokens/segundo.",1,0.35134700000025987,25.615701855980962,2.1286568641662598
+10,Qual é o valor de 2 elevado à potência 6?,64,"system
+Responda somente com a resposta final.
+user
+Qual é o valor de 2 elevado à potência 6?
+model
+64",1,0.12139639999986684,24.71242969316463,2.127312183380127

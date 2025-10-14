@@ -1,0 +1,11 @@
+model_id,prompt,latency_s,tokens_per_s,vram_gb_peak,new_tokens
+microsoft/Phi-3-mini-4k-instruct,Explique em poucas linhas o que é aprendizado supervisionado e como ele difere do não supervisionado.,5.144819299999881,38.874057248231175,2.2346506118774414,200
+microsoft/Phi-3-mini-4k-instruct,"Resuma o seguinte texto em uma frase: 'Os modelos de linguagem de grande porte são treinados para prever a próxima palavra em uma sequência e, com isso, aprendem padrões complexos da linguagem.'",4.870832000000064,41.06074691141008,2.246725559234619,200
+microsoft/Phi-3-mini-4k-instruct,Traduza para o português: 'The quick brown fox jumps over the lazy dog.',4.863926400000082,41.11904324868004,2.23270320892334,200
+microsoft/Phi-3-mini-4k-instruct,Dê três exemplos práticos de onde a inteligência artificial é usada no cotidiano.,4.9568244999998115,40.348412577449054,2.2330923080444336,200
+microsoft/Phi-3-mini-4k-instruct,Escreva um pequeno código Python que conte quantas vezes cada palavra aparece em uma frase.,4.931785600000012,40.55326330487674,2.2342605590820312,200
+microsoft/Phi-3-mini-4k-instruct,Explique o conceito de overfitting em modelos de machine learning.,5.097332300000062,39.236209889631404,2.2303667068481445,200
+microsoft/Phi-3-mini-4k-instruct,Qual é o impacto da quantização 4-bit no desempenho e na qualidade de um LLM?,4.9544175999999425,40.36801419404015,2.2342605590820312,200
+microsoft/Phi-3-mini-4k-instruct,"Gere uma frase criativa usando as palavras 'futuro', 'dados' e 'consciência'.",4.957781999999952,40.34062005953508,2.235039710998535,200
+microsoft/Phi-3-mini-4k-instruct,"Resolva: se um modelo gera 200 tokens em 10 segundos, qual é a taxa média de tokens por segundo?",4.9564090999999735,40.35179420520414,2.2369871139526367,200
+microsoft/Phi-3-mini-4k-instruct,Dê uma breve opinião: você acredita que modelos pequenos podem substituir LLMs gigantes em certas aplicações? Justifique em até duas frases.,4.930947199999991,40.56015850260987,2.2420525550842285,200

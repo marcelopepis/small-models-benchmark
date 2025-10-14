@@ -1,0 +1,11 @@
+model_id,prompt,latency_s,tokens_per_s,vram_gb_peak,new_tokens
+google/gemma-2-2b-it,Explique em poucas linhas o que é aprendizado supervisionado e como ele difere do não supervisionado.,4.169760699999642,26.380410751151604,2.129732608795166,110
+google/gemma-2-2b-it,"Resuma o seguinte texto em uma frase: 'Os modelos de linguagem de grande porte são treinados para prever a próxima palavra em uma sequência e, com isso, aprendem padrões complexos da linguagem.'",1.0289826000002904,27.211344487255758,2.1322898864746094,28
+google/gemma-2-2b-it,Traduza para o português: 'The quick brown fox jumps over the lazy dog.',0.6601795999999922,25.75056848166802,2.1289258003234863,17
+google/gemma-2-2b-it,Dê três exemplos práticos de onde a inteligência artificial é usada no cotidiano.,5.464323600000171,27.26778479956702,2.1289258003234863,149
+google/gemma-2-2b-it,Escreva um pequeno código Python que conte quantas vezes cada palavra aparece em uma frase.,7.253135099999781,27.5742830159066,2.1290602684020996,200
+google/gemma-2-2b-it,Explique o conceito de overfitting em modelos de machine learning.,7.168969699999707,27.898011620834186,2.128387928009033,200
+google/gemma-2-2b-it,Qual é o impacto da quantização 4-bit no desempenho e na qualidade de um LLM?,7.223092100000031,27.68897270463977,2.1294636726379395,200
+google/gemma-2-2b-it,"Gere uma frase criativa usando as palavras 'futuro', 'dados' e 'consciência'.",1.663830500000131,27.647046979843427,2.1295981407165527,46
+google/gemma-2-2b-it,"Resolva: se um modelo gera 200 tokens em 10 segundos, qual é a taxa média de tokens por segundo?",0.6914091999997254,27.48010874024752,2.131160259246826,19
+google/gemma-2-2b-it,Dê uma breve opinião: você acredita que modelos pequenos podem substituir LLMs gigantes em certas aplicações? Justifique em até duas frases.,2.2445440999999846,27.622535908294438,2.131497859954834,62
