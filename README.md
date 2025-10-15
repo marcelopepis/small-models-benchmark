@@ -88,6 +88,15 @@ notebooks/compare_plots.ipynb
 | **Radar global** | visão consolidada de trade-offs |
 | **Eficiência** | (Qualidade × Tokens/s) ÷ VRAM |
 
+### 📊 Exemplos de gráficos
+### Tokens
+![Tokens por segundo](assets/tokens.png)
+
+### Vram
+![Pico de vram utilizada](assets/vram.png)
+
+### Comparativo de qualidade/vram
+![Qualidade](assets/vramqualidade.png)
 ---
 
 ## 💡 Observações
