@@ -90,7 +90,9 @@ notebooks/compare_plots.ipynb
 
 ### 📊 Exemplos de gráficos
 ### Tokens
-![Tokens por segundo](assets/tokens.png)
+<p align="center">
+  <img src="assets/tokens.png" alt="Tokens por segundo" width="500"/>
+</p>
 
 ### Vram
 ![Pico de vram utilizada](assets/vram.png)
