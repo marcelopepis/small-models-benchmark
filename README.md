@@ -2,11 +2,9 @@
 **Benchmark prático e reprodutível de LLMs locais (Gemma, Phi-3, Mistral) em uma GPU RTX 4090**
 
 > Fiz um repositório base com testes para LLM locais. Meu objetivo era medir o desempenho delas tanto em recurso utilizados   
->quanto em qualidade. Todos os modelos são bem leves, então apesar do harware mais potente que eu usei, eles podem ser reproduzidos  
->até mesmo em notebook com uma placa de vídeo dedicada e pelo menos 16GB de memória ram. No final temos um panorama interessante dos  
->modelos e desempenho. Minha avaliação é no sentido de verificar se esses modelos seriam adequados para utilização aplicações web e locais  
->sem a necessidade de conexão com a internet para acessos a modelos mais completos, dessa forma preservando os dados do usuário e evitando  
->possiveis problemas com legislações de dados pessoais.  
+>quanto em qualidade.  
+Todos os modelos são bem leves, então apesar do harware mais potente que eu usei, eles podem ser reproduzidos até mesmo em notebook com uma placa de vídeo dedicada e pelo menos 16GB de memória ram. No final temos um panorama interessante dos modelos e desempenho.  
+Minha avaliação é no sentido de verificar se esses modelos seriam adequados para utilização aplicações web e locais sem a necessidade de conexão com a internet para acessos a modelos mais completos, dessa forma preservando os dados do usuário e evitando possiveis problemas com legislações de dados pessoais.  
 
 ---
 
