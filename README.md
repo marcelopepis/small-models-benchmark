@@ -1,7 +1,12 @@
 # 🧠 Local LLM Bench
 **Benchmark prático e reprodutível de LLMs locais (Gemma, Phi-3, Mistral) em uma GPU RTX 4090**
 
-> Comparando desempenho, uso de VRAM e qualidade em modelos compactos de última geração.
+> Fiz um repositório base com testes para LLM locais. Meu objetivo era medir o desempenho delas tanto em recurso utilizados   
+>quanto em qualidade. Todos os modelos são bem leves, então apesar do harware mais potente que eu usei, eles podem ser reproduzidos  
+>até mesmo em notebook com uma placa de vídeo dedicada e pelo menos 16GB de memória ram. No final temos um panorama interessante dos  
+>modelos e desempenho. Minha avaliação é no sentido de verificar se esses modelos seriam adequados para utilização aplicações web e locais  
+>sem a necessidade de conexão com a internet para acessos a modelos mais completos, dessa forma preservando os dados do usuário e evitando  
+>possiveis problemas com legislações de dados pessoais.  
 
 ---
 
@@ -49,16 +54,15 @@ Modelos testados:
 
 ### 1️⃣ Instale dependências
 ```bash
-pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
-pip install transformers accelerate bitsandbytes sentencepiece pandas matplotlib tqdm
+pip install -r requirements.txt
 ```
+**Versão utilizada da biblioteca CUDA: 12.8**
 
 ### 2️⃣ Baixe os modelos automaticamente
-Cada notebook baixa o modelo da Hugging Face.  
-Para definir onde salvar:
-```bash
-export HF_HOME="/caminho/para/modelos"
-```
+Cada notebook baixa o modelo da Hugging Face, é necessária a chave de conexão do hugging face
+para download dos modelos.
+
+
 
 ### 3️⃣ Rode os notebooks
 Execute:
