@@ -95,10 +95,15 @@ notebooks/compare_plots.ipynb
 </p>
 
 ### Vram
-![Pico de vram utilizada](assets/vram.png)
+<p align="center">
+  <img src="assets/vram.png" alt="Pico de vram utilizada" width="500"/>
+</p>
 
 ### Comparativo de qualidade/vram
-![Qualidade](assets/vramqualidade.png)
+<p align="center">
+  <img src="assets/vramqualidade.png" alt="Qualidade" width="500"/>
+</p>
+
 ---
 
 ## 💡 Observações
